@@ -42,4 +42,4 @@ The abbreviations are:
 
 ## The files:
 
-- lectionary.csv provides the reading data associated with each AGES ID.
+- lectionary.csv provides the reading data associated with each AGES ID.  It does not provide the actual text.
